@@ -14,7 +14,7 @@ These projects aim to detect deepfakes in audio and image files using machine le
 1. Open your terminal or command prompt.
 2. Clone the repository using the command:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Tarunn06/Kynnovate_2025_SecureX
    ```
 3. Navigate to the project directory:
    ```bash
@@ -91,13 +91,5 @@ These projects aim to detect deepfakes in audio and image files using machine le
 2. For accurate results, verify the format and quality of input files.
 3. Modify configurations (e.g., upload size limits) in the respective scripts if needed.
 
----
 
-## **Contributors**
-- Your Name (Optional: add more contributors here).
-
----
-
-## **License**
-Include your project's license details if applicable.
 
